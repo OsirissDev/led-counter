@@ -15,10 +15,17 @@ Actual Photo
 
 Materials:
 1 × Arduino Uno R3
+
 5 × 330 Ω resistors
+
 1 × pushbutton
+
 1 × red LED
+
 1 × green LED
+
 1 × blue LED
+
 1 × yellow LED
+
 1 × white LED
